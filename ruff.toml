@@ -1,0 +1,9 @@
+line-length = 88
+extend-exclude = ['.pixi']
+
+[lint]
+extend-select = ['I', 'NPY001']
+ignore = ['F841']
+
+[format]
+preview = true
