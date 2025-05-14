@@ -9,7 +9,7 @@ version = "0.1.0"
 
 [dependencies]
 numpy = ">=2.2.4,<3"
-scikit-network = ">=0.32.1,<0.33"
+scikit-network = ">=0.33.3,<0.34"
 httpx = ">=0.28.1,<0.29"
 orjson = ">=3.10.16,<4"
 scipy = ">=1.15.2,<2"
